@@ -1,0 +1,244 @@
+ACT 1: THE BLAKROS MUSEUM
+OBSERVATORY
+By the time the PCs get to the museum, Nigel Aldain
+is standing outside waiting to meet them. Nigel may
+recognize some of the PCs from previous encounters at
+the Blakros Museum. Once the worried curator verifies
+that the party members are indeed Pathfinders, he
+explains his concerns to the PCs and tries to answer any
+questions they might have regarding the situation.
+Nigel Aldain has a disturbed expression, but looks slightly
+relieved now that help is at hand. “Thank the gods you’re finally
+here. It would appear something quite bizarre has happened to
+my new Pathfinder-turned-assistant, Anumet Akrostera, while
+we were researching the key to the newly discovered portal
+beneath the museum. I had warned Anumet that many corners
+of the museum hold mysteries that, as of yet, have never been
+looked into, but I’m afraid something got to him all the same, as
+the last time yesterday I saw him he was acting quite strangely,
+and he failed to return today. I fear something evil in the attics
+of the museum may have cursed him.”
+The PCs will likely have questions for Nigel. He’ll help
+them any way he can, but won’t accompany them as they
+check the museum’s awkward crawlspaces and drafty attics
+where Anumet was working. Below are answers to some of
+the most likely questions the PCs may have for the curator.
+What happened to Anumet? “Anumet was exploring
+the museum’s attics and towers looking for clues about
+the key to a newly discovered portal in the museum’s
+catacombs. This morning, he went up to the attic for a
+long time, and when he came down, he acted strangely,
+as if he didn’t recognize anyone. His voice was hoarse
+and the words he used were bizarre and archaic. He kept
+rambling about Ralzeros the Overwatched, but nothing
+he said made sense.
+“He made for the catacombs and stared at the portal
+we’ve been trying to unlock for some time. I don’t think
+he realized I was still there, and I followed him around
+the other areas in the catacombs, where he seemed to be
+desperately searching for something. When he couldn’t find
+it, he was furious. Anumet avoided me after that, but I saw
+him look something up in our copy of Jackdaw’s History of 
+the True Art, a book about famous wizards and astrologers.
+He took the book with him and ran out of the museum. I
+didn’t dare follow him, and haven’t seen him since.”
+What’s in History of the True Art? “I don’t really know.
+It does discuss Ralzeros the Overwatched quite a bit.
+Forae Logos is the only other place I can think that would
+have a copy.”
+What are the attics and towers of the museum used for?
+“They’re too rickety and awkward for any practical use
+these days, but they’ve been there since the Blakros family
+bought the place. Tales say that Ralzeros the Overwatched
+put machines there that he used to observe the stars and
+heavens above. Judging by how strangely everything up
+there is laid out, I suspect that the stories are right when
+they say he was insane.”
+Where did Anumet go after he left the museum? “I have
+no idea. Before he left, he was muttering something about
+Ralzeros’s duel, but he was hunched over and wouldn’t
+look at me when I tried to ask what he was talking about.”
+Exactly where in the attics did Anumet go? “I’m not
+sure, but you might be able to follow his trail in the dust.
+The attics are filthy.”
+What do you know about the portal in the catacombs?
+“It was discovered a couple days ago when the museum’s
+workmen were clearing the basement levels out to store
+more of the Blakros family’s treasures. It’s a door a bit
+bigger than a human, and its bizarre decorations made
+my stomach churn just looking at them. You’re welcome to
+have a look for yourself if you wish.”
+Some incurious PCs may not stop to ask questions. If the
+PCs seem to be looking in the wrong places for clues, Nigel
+follows them for a short while and provides some of the
+information that would have been answered above.
+If the PCs ask to see the newly discovered portal,
+Nigel leads them down into the catacombs, revealing a
+passageway hidden behind apparently solid stone. At
+the passage’s end stands a gleaming doorway, copper in
+color, inlaid with malachite, and covered with intricate
+arabesques. No obvious handle or lock is visible. Those
+who study the portal for more than a few minutes have
+the uncomfortable sensation that its decorations are
+slowly moving.
+While the Blakros Museum’s major structural members
+are shaped from solid stone, the supports used on the
+upper levels are made of wood. Some of these beams are so
+aged and fragile that the museum’s upper chambers were
+sealed away years ago to prevent collapse. The stairs that
+accessed the upper floors were removed and the exhibit
+halls remodeled to eliminate all sign of them.
+A rickety ladder currently stands in the museum’s
+storage room, leading up to a square hole in the ceiling’s
+decorative plasterwork. Anumet used the ladder—kept 
+so workers could access the building’s decrepit upper
+stories—to explore the museum’s attics. 
+
+1a. The Walkway (CR 1 or CR 3)
+PCs who ascend the ladder in the storage room find
+themselves in an ill-conceived maze of crawlspaces,
+attics, and tower chambers, each connected by stairs,
+ladders, and cramped walkways.
+Reeking of vermin droppings, sagging walkways and cramped
+stairwells connect the museum’s winding upper levels. Stifling
+heat fills the sealed-off rooms and crannies, and cracked and
+rotten boards pop and creak at the slightest touch. Dry-rotted
+debris lies heaped atop broken furniture and shattered crates
+in the long-disused chambers. Boot prints make an uncertain
+and winding trail through the thick dust on the attic’s floors.
+PCs trying to follow the trail Anumet’s boot prints left
+in the thick dust can easily do so, and soon find a secret
+door that now stands ajar, seeming to open out of an agewhitened
+leaden frieze along one tower’s stone flank.
+Trap: The 10-foot-long section of walkway in front of the
+secret door is particularly treacherous, time having worn
+it down to nearly collapsing. If more than one Medium
+creature (or more than two Small creatures) stands on
+the decrepit walkway at once, it collapses, dropping
+victims onto the lath and plaster ceiling of the exhibit
+hall below. In Subtier 1–2, the ceiling holds, but in Subtier
+4–5, unfortunate PCs continue to crash through, taking
+additional damage.
+
+Subtier 1–2 (CR 1)
+Rotten Walkway CR 1
+Type mechanical; Perception DC 20; Disable Device DC 20
+EFFECTS
+Trigger location; Reset none
+Effect 20-ft.-deep pit (2d6 falling damage); DC 17 Reflex
+avoids; multiple targets (all targets in a 5-ft.-by-10-ft. area)
+
+Subtier 4–5 (CR 4)
+Rotten Walkway CR 4
+Type mechanical; Perception DC 25; Disable Device DC 20
+EFFECTS
+Trigger location; Reset none
+Effect 40-ft.-deep pit (4d6 falling damage); DC 21 Reflex
+avoids; multiple targets (all targets in a 5-ft.-by-10-ft. area) 
+
+Mission Notes: A DC 16 Perception check allows a
+PC to notice an old record book fallen 20 feet below the
+rickety walkway. It chronicles House Blakros’s dealings
+in Osirion, including several incidents where family
+members undermined Pathfinder interests in the area.
+Grand Lodge faction PCs who retrieve this text and return
+it to the museum’s archives without alerting Nigel receive
+1 Prestige Point.
+
+1b. The Orrery (CR 3 or CR 6)
+Read the following aloud when the PCs enter the orrery.
+Strange, organic-looking patterns wind across the walls and
+ceiling of this chamber, and the stone walls look as though
+they had grown winding tendrils that enshroud the area. At
+the chamber’s center stands a massive, rust-covered device
+of gears and arms about fifteen feet across. The end of each
+arm supports a different colored sphere. Strange projections
+and barbed arrows point through each of the globes, their
+directions seemingly random. Opposite from the chamber’s
+entrance, a naked and clearly dead body is impaled by a
+rust-red arrow. The corpse faces a gray, wooden door, which
+stands ajar.
+PCs who succeed at a DC 15 Knowledge (arcana) or
+Knowledge (geography) check recognize the device as an
+orrery depicting Golarion’s known solar system.
+Haunt: Anumet’s gruesome death left his tormented
+spirit trapped, replaying his terror-filled final moments
+over and over. Anyone who enters the chamber triggers the
+haunt in the center of the room.
+
+Subtier 1–2 (CR 3)
+The Devourer’s Prey CR 3
+CE haunt (30-ft. chamber)
+Caster Level 3rd
+Notice Perception DC 18 (to hear the sound of brains being
+eaten)
+hp 6; Trigger proximity; Reset 1 day
+Effect When this haunt is triggered, Anumet’s wounds begin
+to sizzle and turn green; acid bursts from the corpse and
+strikes the nearest creature as though with acid arrow
+(ranged touch attack +3; 2d4 damage per round for 2
+rounds). All creatures in the area of the haunt are exposed
+to a horrific vision that invades their minds. In the vision,
+a withered humanoid figure with an elongated, pointed
+tongue bursts forth from the gray door and grabs the thenliving
+Anumet, subsequently tearing him apart with its
+jagged claws and teeth. As the terrifying vision fades, the
+monster hisses, “The gate shall soon open!”
+Destruction Anumet’s body must be removed from the orrery
+and given a proper burial.
+
+Subtier 4–5 (CR 6)
+The Devourer’s Prey CR 6
+CE haunt (30-ft. chamber)
+Caster Level 6th
+Notice Perception DC 22 (to hear the sound of brains being eaten)
+hp 12; Trigger proximity; Reset 1 day
+Effect When this haunt is triggered, Anumet’s wounds begin
+to sizzle and turn green; acid bursts from the corpse and
+strikes the nearest creature as though with acid arrow
+(ranged touch attack +6; 2d4 damage per round for 3
+rounds). Until it is neutralized or destroyed, the haunt
+continues to strike another creature with its acid arrow every
+round after the first. All creatures in the area of the haunt
+are exposed to a horrific vision that invades their minds. In
+the vision, a withered humanoid figure with an elongated,
+pointed tongue bursts forth from the gray door and grabs
+the then-living Anumet, subsequently tearing him apart
+with its jagged claws and teeth. As the terrifying vision
+fades, the monster hisses, “The gate shall soon open!”
+Destruction Anumet’s body must be removed from the orrery
+and given a proper burial.
+Development: The rust-covered orrery’s jagged barbs
+and warped gears have kept Anumet’s remains from
+collapsing to the floor, and a quick examination of the
+bloody corpse reveals horrifying wounds that could not
+possibly have been caused by the machine itself. A DC 10
+Heal check is enough for a PC to see that something has
+feasted upon the corpse, devouring much of its skin and
+cracking the skull open to devour its contents. Anumet’s
+clothing and effects are nowhere to be seen. A DC 12 
+Knowledge (religion) check identifies the claw and bite
+marks covering the body as typical of a ghoul’s victims. A
+DC 20 Heal check reveals that Anumet’s body is partially
+frostbitten in places.
+Treasure: The doorknob to the vault that served as the
+devourer’s prison is made of clear crystal with a chunk
+of sapphire inside; the entire piece is worth 114 gp. A
+tiny golden statuette sits within the orrery’s rust-choked
+mechanisms, caught between two gears. It depicts a
+bizarre, apparently formless creature covered with eyes
+and tendrils. It can be sold to a broad-minded collector for
+199 gp in Subtier 1–2 and 1,240 in Subtier 4–5. Additionally,
+the orrery itself is worth 912 gp in Subtier 1–2 and 3,576 gp
+in Subtier 4–5, if sold to the right astronomer.
+
+Mission Notes: Silver Crusade faction PCs who
+neutralize the haunt and give Anumet’s body a proper
+burial receive 1 Prestige Point.
+
+Rewards: If the PCs destroy, neutralize, or otherwise
+survive the haunt, reward each subtier thusly:
+Subtier 1–2:
+Give each PC 102 gp.
+Subtier 4–5:
+Give each PC 411 gp.
