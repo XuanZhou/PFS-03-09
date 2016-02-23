@@ -242,3 +242,45 @@ Subtier 1–2:
 Give each PC 102 gp.
 Subtier 4–5:
 Give each PC 411 gp.
+
+1c. The Devourer’s Prison
+Read the following when the PCs enter the devourer’s prison.
+Scattered scraps of parchment and torn bindings cover the
+floor of this small chamber. Scratched glyphs cover its stone
+walls and even span part of the ceiling. A foul reek hangs in the
+air, like the stench of something long dead.
+After the Devourer of Reason consumed one of
+Ralzeros’s favored apprentices, the wizard magically
+bound his otherworldly advisor and minion within this
+isolated chamber. He had planned to punish it later and
+bend the thing to his will, but his sudden disappearance
+left the Devourer of Reason trapped and forgotten. Over
+the long years of its imprisonment, the ravenous monster
+scrawled its madness-induced thoughts on the walls, most
+of which detail revenge plots against Ralzeros. PCs who
+can read Aklo or who make a successful DC 25 Linguistics
+check can read the scrawled messages, learning the beast’s
+name as well as its desire to unleash further horrors from
+the Dark Tapestry upon Golarion, though its exact plan
+remains a mystery.
+If the PCs inform Nigel of their gruesome findings, the
+curator urges the party to find out what the murderous thing
+masquerading as Anumet hoped to find. He offers to search
+for more clues in the Blakros archives and recommends
+the PCs either find Jackdaw’s History of the True Art in the
+libraries of Forae Logos, or visit the Arcanamirium to
+consult Maren Fuln, a wizard who has become quite well
+versed in Absalom’s history in the past few years. Parties
+that report back to the Grand Lodge are ordered to track
+down Anumet’s killer using whatever skills they have at
+their disposal, as well as find out what the undead monster
+was so adamantly seeking when it left the museum.
+
+Mission Notes: Qadira faction PCs will want to
+surreptitiously study the records kept in the museum’s
+offices. A DC 18 Bluff check distracts the museum staff
+long enough for faction members to find the names they
+seek. More straightforward PCs may persuade the office
+clerks to cooperate with a successful DC 20 Diplomacy
+check or a 20 gp bribe. Qadira faction PCs who gain access
+to these records receive 1 Prestige Point.
