@@ -1,0 +1,73 @@
+Read the following to get the adventure underway.
+-------------------------------------------------------
+Drandle Dreng’s entrance is as understated as always at the
+meeting with him this morning. He carries stacks of papers and
+tomes, and shedding stray pages as he makes his way toward
+a large, cushioned chair; once seated, he greets you warmly.
+“Welcome, welcome, glad to see you’ve made yourself at
+home. No point in beating around the bush, since I’m sure
+you’re all very curious why I called you here today, hm?
+“As you may or may not know, the Society has been bolstering
+its influence with the esteemed Blakros family for some time
+now, and have assisted them and their famous museum with
+various incidents over the past few years—discovering several
+new levels of catacombs in the process.
+“Just recently, the Blakros Museum’s curator, Nigel Aldain,
+informed us that he’d discovered a mysterious portal within the
+building’s vast catacombs, and sought information regarding
+how to open it. We sent one of our agents, a man by the name
+of Anumet Akrostera, to help research the matter further, which
+involved delving into the various attics and crawlspaces of
+the Blakros Museum in search of clues that might lead to the
+whereabouts of the portal’s key.
+“Earlier today, Nigel showed up here, claiming that something
+was wrong with Anumet. It seems that the Pathfinder set off
+some sort of curse or trap while poking around in the place’s
+attics and was acting strangely, and now he can’t be found
+at all. I need you to head to Blakros Museum and get to the
+bottom of this. Find Anumet, and if he has gotten himself into
+irreparable trouble, you’ll also need to take up where he left off
+and find that key.”
+------------------------------------------------------------------
+PCs who have ranks in Knowledge (history) or
+Knowledge (local) may be able to recall information about
+Blakros Museum before making their way to the famous
+building. This knowledge can provide important clues
+about future events in this scenario. Let the PCs make
+the following checks, and consult the information below.
+
+Knowledge (history)
+10+ In the early days of Absalom, the Blakros Museum
+was the stronghold of an eccentric wizard. After being
+abandoned for centuries, it was bought by the Blakros
+family, who turned it into a museum for their vast
+collection of curios.
+15+ The mad astrologer Ralzeros the Overwatched built
+what is now the Blakros Museum thousands of years ago
+as an observatory to study distant worlds (and some say,
+to be studied by them). He later disappeared following a
+mage-duel with another of Absalom’s early wizards.
+25+ Ralzeros carved his stronghold from a single block
+of volcanic stone with the help of fell powers granted to
+him by otherworldly patrons, supposedly to hide the
+powerful artifacts secreted in the catacombs beneath
+the keep. In addition, some tales hint that Ralzeros was
+actually abducted by alien monsters from the worlds he
+had studied so obsessively.
+
+Knowledge (local) or Diplomacy
+(gather information)
+10+ Blakros Museum is owned by the esteemed House
+Blakros, an extensive clan whose family members have
+made their fortune by trading odd antiquities across the
+border of Taldor and Qadira, as well as by marrying off their
+beautiful daughters to wealthy nobles all around the world.
+They store many of their curious gifts and the findings of 
+their more adventurous daughters in exhibits in the Blakros
+Museum, which they purchased for just this purpose.
+15+ The Pathfinder Society is interested in forming an
+alliance with the Blakros family to gain access to their
+extensive collection of historical and arcane treasures.
+20+ Many pieces in the Blakros’s collection are
+connected to the Dark Tapestry or other otherworldly
+horrors studied by Ralzeros.
